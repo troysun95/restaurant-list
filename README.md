@@ -1,3 +1,6 @@
+<img width="1440" alt="截圖 2023-06-10 上午11 01 00" src="https://github.com/troysun95/restaurant-list/assets/120295129/4ee6361b-23d1-4f4d-b8d6-ec50d18be382">
+
+
 ## 介紹
 ---
 紀錄餐廳清單，可以瀏覽紀錄與簡要資訊(評分等)、查看詳細資料
